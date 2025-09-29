@@ -9,3 +9,13 @@ body {
     height: 100dvh;
 }
 
+.feri{
+    width: 300px;
+    height: auto;
+    background-color: thistle;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+}
