@@ -7,5 +7,15 @@
 body {
     width: 100dvw;
     height: 100dvh;
+
 }
 
+.panggih {
+ width: 300px;
+ height:auto;
+ background-color: greenyellow;
+ display: column;
+ justify-content: center;
+ align-items: center;
+ gap: 2rem;
+}
