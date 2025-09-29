@@ -9,3 +9,13 @@ body {
     height: 100dvh;
 }
 
+.danang {
+    width: 350px;
+    height: auto;
+    background-color: cornflowerblue;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+}
